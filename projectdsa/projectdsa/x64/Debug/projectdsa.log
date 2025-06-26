@@ -1,0 +1,2 @@
+﻿  projectdsa.cpp
+D:\projectDSA\projectdsa\projectdsa.cpp(69,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
